@@ -18,7 +18,7 @@ Before running the playbook, ensure the following prerequisites are met:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/ansible-docker-deployment.git
+   git clone https://github.com/lavuchandu169/ansible-docker-deployment.git
 2. Navigate to the repository directory:
    cd ansible-docker-deployment
 3. Edit the hosts file to specify the target host(s) where the Docker container will be deployed.
